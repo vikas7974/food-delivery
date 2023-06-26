@@ -1,6 +1,5 @@
 {
   "name": "yum",
-  "homepage": "https://vikas7974.github.io/yummy-food",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
